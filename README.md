@@ -1,7 +1,7 @@
 
 # FdF
 
-Available only for **MacOSX**
+Available only for **MacOS**
 
 The goal of the FdF is to draw a wireframe of a 3D landscape.
 
